@@ -13,7 +13,7 @@ function MagicButton() {
 }
 
 const book = {
-  title: 'A Farewell to Arms',
+  title: '',
   author: 'Earnest Hemingway',
   published: '1929',
   image: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Book_cover_photo_for_%22Family_and_the_State_in_Soviet_Lithuania%22.jpg',
