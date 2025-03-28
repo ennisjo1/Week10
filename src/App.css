@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.Zones{
+  display:flex;
+}
+
+button{
+  padding:30px;
+  margin:2vw;
+}
